@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.jodah:failsafe:2.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.jodah/failsafe/2.4.4/358ce45d0852f164802a700586469b06e54fa5a0/failsafe-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.jodah/failsafe/2.4.4/bf3554f666233a5d1d6341997e7707cd18217b38/failsafe-2.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
